@@ -40,13 +40,15 @@
 </div>
 </nav>
 <!-- ini adalah penutup navbar -->
+<!-- content1 -->
 
-<div class="container">
+<div class="container"> id="perkenalan"
   <div class="row">
+  
     <div class="col-4">
       FOTO
       <div class="card mx-auto" style="width: 20rem;">
-  <img src="assets/img/piskal.jpeg" class="card-img-top" style="width: 9rem;">
+  <img src="assets/img/piskal.jpeg" class="card-img-top" style="width: 20rem;">
   <div class="card-body">
     <p class="card-text">K A L E E </p>
   </div>
@@ -55,15 +57,42 @@
     <div class="col-8">
      <h1>SELAMAT DATANG DIWEBSITE PISKAL </h1>
      
-     <h1>Saya memiliki kemampuan aim merah di ff dengan mempunyai KD 4 </h1>
+     <h1>Memiliki hobi pendakian dan pemanjatan </h1>
 
     </div>
 
   </div>
 
 </div>
+<!-- penutup content 1 -->
+<!-- content1 -->
+
+<div class="container"> id="alamat"
+  <div class="row">
+  
+    <div class="col-8">
+      FOTO
+      <div class="card mx-auto" style="width: 20rem;">
+  <img src="assets/img/piskal.jpeg" class="card-img-top" style="width: 20rem;">
+  <div class="card-body">
+    <p class="card-text">K A L E E </p>
+  </div>
+</div>
+    </div>
+    <div class="col-4">
+     <h1>SELAMAT DATANG DIWEBSITE PISKAL </h1>
+     
+     <h1>Memiliki hobi mendaki dan pemanjatan </h1>
+
+    </div>
+
+  </div>
 
 </div>
+<!-- penutup content 2-->
+
+</div>
+
 
 
  <!-- Link Javascript -->
